@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+body{
+  margin:0;
+  padding:0;
+  font-family: "Inter", sans-serif;
+
+  background:
+  radial-gradient(circle at top left,#16214a,#081028 40%);
+
+  color:white;
+}
+
+*{
+  box-sizing:border-box;
+}
