@@ -3,21 +3,10 @@
 !.vscode/extensions.json
 .idea
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Scratch / test files
-scratch/
-scratch_test_analytics.cjs
 
 # React / Node
 node_modules/
 dist/
-
-
 
 # Python
 __pycache__/
@@ -25,5 +14,9 @@ __pycache__/
 venv/
 .venv/
 
-# Environment files
+# Environment
 .env
+
+# Scratch
+scratch/
+scratch_test_analytics.cjs
