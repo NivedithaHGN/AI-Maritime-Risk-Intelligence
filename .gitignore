@@ -9,9 +9,15 @@
 *.sln
 *.sw?
 
+# Scratch / test files
+scratch/
+scratch_test_analytics.cjs
+
 # React / Node
 node_modules/
 dist/
+
+
 
 # Python
 __pycache__/
