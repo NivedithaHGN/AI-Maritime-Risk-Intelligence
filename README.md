@@ -137,10 +137,9 @@ python app.py
 * Cloud deployment
 
 
-## Contributors
+## Developed by
 
-Niveditha H G
-- AI and DS Student
+Niveditha H G - B.E. in AI & Data Science Student
   
 Kathyayini
 
