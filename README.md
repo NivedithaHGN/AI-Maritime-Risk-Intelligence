@@ -139,7 +139,7 @@ python app.py
 
 ## Developed by
 
-Niveditha H G - B.E. in AI & Data Science Student
+Niveditha H G - B.E. in Artificial Intelligence and Data Science
   
 Kathyayini
 
