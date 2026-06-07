@@ -4,7 +4,7 @@
 
 AI Maritime Risk Intelligence Platform is a web-based logistics intelligence system designed to analyze maritime shipping routes, predict transportation risks, recommend alternative ports, and provide operational analytics for waterway logistics.
 
-The platform combines machine learning, route analysis, seasonal forecasting, and interactive visualization to support maritime decision-making.
+The platform combines machine learning, route analysis, and interactive visualization to support maritime decision-making.
 
 ---
 
